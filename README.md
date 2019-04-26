@@ -25,7 +25,7 @@ Simplex, Scipy optimizer, MP2 initial guess.
 
 https://arxiv.org/abs/1407.7863
 
-4. Symmetry, Spin, N-electron constrained Hamiltonian
+4. Symmetry, Spin, N-electron constrained Hamiltonian generator
 
 https://arxiv.org/abs/1701.08213
 
