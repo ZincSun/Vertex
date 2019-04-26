@@ -31,6 +31,10 @@ https://arxiv.org/abs/1701.08213
 
 5. An interface between simulating circuit and IBM-Q architecture specifically optimized circuit.
 
+6. Noise simulation to mimic NISE device
+
+7. Python interface
+
 
 
 
