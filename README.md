@@ -6,7 +6,7 @@ Vertex is a modular, general-purpose, efficient plantform for VQE expermiment wi
 
 ## To-do list
 
-1.Interface between openfermion-Psi4 and efficient quantum circuit simulator.
+1. Interface between openfermion-Psi4 and efficient quantum circuit simulator.
 
 
 keywords :
@@ -14,7 +14,7 @@ keywords :
 QuEST, openfermion-cirq, qulacs
 
 
-2.An classical optimzer adapted to quantum chemistry problem at the heart of VQE.
+2. An classical optimzer adapted to quantum chemistry problem at the heart of VQE.
 
 keywords :
 
