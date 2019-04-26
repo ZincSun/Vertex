@@ -2,7 +2,7 @@
 A high-performance VQE simulation toolchain 
 
 ## Goal
-Vertex is a modular, general-purpose, efficient plantform for VQE expermiment.
+Vertex is a modular, general-purpose, efficient plantform for VQE expermiment with Easy-To-Use python interface.
 
 ## To-do list
 
